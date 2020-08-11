@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: Calibri;
 }
 
 .App-logo {
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.followers {
+  padding: 5px;
+
 }
